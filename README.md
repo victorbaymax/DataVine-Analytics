@@ -138,5 +138,3 @@ This project proves two things:
 2. And bugs can be turned into character development
 
 ---
-
-If you want, I can also tailor this README with your GitHub username, repo name, or make it more “recruiter-friendly” (slightly less jokes, slightly more buzzwords).
